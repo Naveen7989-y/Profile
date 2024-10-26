@@ -543,3 +543,6 @@ justify-content: center;
 }.btn-divide a{
   text-decoration: none;
 }
+.leftimage img{
+  box-shadow: 1px 5px 5px 5px;
+}
