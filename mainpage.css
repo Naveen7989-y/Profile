@@ -544,5 +544,5 @@ justify-content: center;
   text-decoration: none;
 }
 .leftimage img{
-  box-shadow: 1px 5px 5px 5px;
+  box-shadow: 10px 20px 5px gray;
 }
